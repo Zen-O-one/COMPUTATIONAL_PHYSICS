@@ -34,7 +34,5 @@ Follow the prompts to enter mass (kg) and velocity (m/s).
 Input the mass of the body in Kilogram(kg): 10
 Input the mass of the body in metre per sec (m/s): 3
 A body of mass 10.00kg and 3.00m/s possess kinetic Energy of 45.00Joules
-```
 
----
 

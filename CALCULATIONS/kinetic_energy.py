@@ -39,10 +39,7 @@ def main() -> None:
         print("Aborted!!!")
 
     ke = kinetic_energy(mass, velocity)
-    print(f
-    'A body of mass {mass:.2f}kg and {velocity:.2f}m/s\
-     has kinetic energy of {ke:.2f}J.'
-    )
+    print(f'kinetic energy: {ke:.2f}J')
 
 
 if __name__ == "__main__":
